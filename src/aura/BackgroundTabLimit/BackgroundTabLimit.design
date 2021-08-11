@@ -1,0 +1,3 @@
+<design:component>
+    <design:attribute name="limit" label="Max Tabs" description="Maximum number of tabs able to open" />
+</design:component>
